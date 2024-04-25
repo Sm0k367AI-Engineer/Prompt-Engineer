@@ -15,14 +15,10 @@
 - 👩‍💻 I’m part of the research groups NILL
 - :man: 💯EpicTechSm0k367AI🔥™️
 - 💙 I focus on AI Learning LLM
-
 ### About me
 I'm a backend and frontend developer in Java, PHP, Python, NPM, Vue.js & Node, Nextjs, Vercel, SupaBase, SaaS, WaaS, Stripe, with knowledge in Artificial Intelligence,.
-
 I have proficiency in English BS.
-
 - [Blog](https://twitter.com/Sm0ken42O) 💻 - Working on it.
-
 <div>
   <a href="https://github.com/Sm0k367AI-Engineer/Prompt-Engineer">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sm0k367AI-Engineer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -32,10 +28,8 @@ I have proficiency in English BS.
  <br />   
 <p align="center"> <a href="https://github.com/Sm0k367AI-Engineer"><img src="https://github-profile-trophy.vercel.app/?username=Sm0k367AI-Engineer&margin-w=5&theme=radical" alt="Sm0k367AI-Engineer" /></a>
 </div>
-  
-![Snake animation](https://github.com/Smoke367AI-Engineer/Sm0k367_AIEngineer/blob/output/github-contribution-grid-snake.svg)
-
-  <br />
+  ![Snake animation](https://github.com/Smoke367AI-Engineer/Sm0k367_AIEngineer/blob/output/github-contribution-grid-snake.svg)
+<br />
 <a href="https://buymeacoffee.com/sm0k367ai"><img src="https://github.com/Sm0k367AI-Engineer/Sm0k367AI-Engineer/blob/main/bymeacoffe.png" alt="By me a coffe" width="500"/></a>
   
 
