@@ -92,7 +92,7 @@ Get Started Today!
 
 Dive into the world of Sm0k367, and experience the power of innovation, collaboration, and creativity. Browse our repository, explore our projects, and join our community today!
 
-<div> <a href="https://github.com/Sm0k367AI-Engineer/Prompt-Engineer"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sm0k367AI-Engineer&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sm0k367AI-Engineer&layout=compact&langs_count=7&theme=dark"/> <br /> <b>🏆 Github Achievements</b> <br /> <p align="center"> <a href="https://github.com/Sm0k367AI-Engineer"><img src="https://github-profile-trophy.vercel.app/?username=Sm0k367AI-Engineer&margin-w=5&theme=radical" alt="Sm0k367AI-Engineer" /></a> </div>
+<div> <a href="https://github.com/Sm0k367AI-Engineer/Prompt-Engineer">  </div>
 Snake animation
 
 <br /> <a href="https://buymeacoffee.com/sm0k367ai"><img src="https://github.com/Sm0k367AI-Engineer/Sm0k367AI-Engineer/blob/main/bymeacoffe.png" alt="By me a coffe" width="500"/></a>
